@@ -1,4 +1,5 @@
-baseURL = "https://mark-galich.github.com/"
+baseURL = "https://github.com/mark-galich/mark-galich.github.io/"
 languageCode = "ru-ru"
 title = "Мой сайт"
 theme = "mainroad"
+publishDir = "docs"
